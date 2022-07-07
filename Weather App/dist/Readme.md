@@ -1,0 +1,2 @@
+<h1>Weather App</h1>
+Here we are making the basic weather app which gets the information about the city which we have entered. Here we are using openweatherapi for retreving the data of the city we enter⛅⛈️🌦️🌫️🌪️
